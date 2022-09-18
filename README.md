@@ -3,7 +3,7 @@
   <h1>Olá, sou Wallace Fortunato</h1>
   📖Aqui você encontrará meu portfólio como programador Fullstack
     <br>
-  😎Tenho 29 anos
+  😎Tenho 30 anos
    <br>
   👨🏻‍🎓Graduando em Engenharia Elétrica - UFJF
   <br>
