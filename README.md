@@ -3,9 +3,10 @@
   <h1>Olá, sou Wallace Fortunato</h1>
   📖Aqui você encontrará meu portfólio como programador Fullstack
     <br>
-  😎Tenho 30 anos
+  😎Tenho 32 anos
    <br>
-  👨🏻‍🎓Graduando em Engenharia Elétrica - UFJF
+  👨🏻‍🎓Graduando em Engenharia de Produção - UFF
+  👨🏻‍🎓Graduando em Análise e Desenvolvimento de Sistemas - XP Educação
   <br>
   👨🏻‍🎓Tecnólogo em IoT
   <br>
