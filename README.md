@@ -6,6 +6,7 @@
   😎Tenho 32 anos
    <br>
   👨🏻‍🎓Graduando em Engenharia de Produção - UFF
+  <br>
   👨🏻‍🎓Graduando em Análise e Desenvolvimento de Sistemas - XP Educação
   <br>
   👨🏻‍🎓Tecnólogo em IoT
